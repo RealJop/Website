@@ -28,7 +28,7 @@ body {
   padding: 3px;
   font-family: 'Comfortaa', cursive;
   color: white;
-  font-size: calc(1vw + 1vh);
+  font-size: calc(3vw + 1vh);
   text-align: center;
   filter: blur(0px);
   -webkit-filter: blur(0px);
