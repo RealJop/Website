@@ -5,7 +5,6 @@ body {
   text-align: center;
   filter: blur(0px);
   -webkit-filter: blur(0px);
-
   background-color: #000000;
   color: #ffffff;
   
@@ -29,7 +28,7 @@ body {
   padding: 3px;
   font-family: 'Comfortaa', cursive;
   color: white;
-  font-size: 70px;
+  font-size: calc(1vw + 1vh);
   text-align: center;
   filter: blur(0px);
   -webkit-filter: blur(0px);
